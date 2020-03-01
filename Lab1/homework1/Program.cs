@@ -32,8 +32,13 @@ namespace homework1
 
             foreach(IoTDevices dev in myRoom){
                 dev.PrintAll();
+            
             }
-        }
+            Vector2D myVec = new Vector2D(5,1);
+            Vector2D myVec1 = new  Vector2D(1,5);
+            Console.WriteLine(myVec+myVec1);
+            Console.WriteLine(myVec.Length);
         
+        }   
     }
 }
