@@ -21,8 +21,9 @@ namespace homework1
 
 
             HR.bpm_ = 130;
-            HR.Name="HeartRate";
-            System.Console.WriteLine("Name of Device "+HR.Name);
+            HR.NameDevice="HeartRate";
+            HR.PrintAll();
+            HR.ShowInfo();
 
             List<IoTDevices> myRoom = new List<IoTDevices>();
             myRoom.Add(new IoTDevices(){NameDevice= "Temperature"});
