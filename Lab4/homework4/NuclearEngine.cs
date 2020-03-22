@@ -2,15 +2,19 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C4
+namespace homework4
 {
-    class DieselEngine:Engine
+    class NuclearEngine:Engine
     {
-        private Waste NuclearWaste;
-        public override void CheckSupplies(){}
+        private Waste nuclearWaste;
+        public override void CheckSupplies(){
+            Console.WriteLine("Nuclear waste stored: "+nuclearWaste);
+        }
         public NuclearEngine(){}
         public override void OneDayOfTravel(){}
-        public override double Refill(double amount){}
+        public override double Refill(double amount){
+            return amount +=amount;
+        }
 
     }
 }

@@ -2,14 +2,16 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C4
+namespace homework4
 {
     abstract class Human
     {
-        static private double MedianSalary;
+        static private double MedianSalary =1500;
         private Random random;
         public double Salary{get;set;}
-        public int Breathe(){}
+        public int Breathe(){
+            return 100;
+        }
         public double Eat(){
             return random.NextDouble();
         }

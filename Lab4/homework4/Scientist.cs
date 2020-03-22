@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C4
+namespace homework4
 {
     class Scientist:Human
     {
-        public Scientist(double s){}
+        public Scientist(double s): base(s){}
         public ScientificProbe myProbe{get;set;}
         public void Work(){}
     }

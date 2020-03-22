@@ -2,12 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace C4
+namespace homework4
 {
     class DieselEngine:Engine
     {
         public override void OneDayOfTravel(){}
-        public override double Refill(double amount){}
+        public override double Refill(double amount){
+            return amount +=amount;
+        }
 
     }
 }

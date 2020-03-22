@@ -1,0 +1,3 @@
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab4\homework4\obj\Debug\netcoreapp3.1\homework4.csprojAssemblyReference.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab4\homework4\obj\Debug\netcoreapp3.1\homework4.AssemblyInfoInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab4\homework4\obj\Debug\netcoreapp3.1\homework4.AssemblyInfo.cs
