@@ -7,6 +7,8 @@ namespace homework4
     class Destination
     {
         public string Name{get;set;}
-        public Destination(string name){}
+        public Destination(string name){
+            this.Name = name;
+        }
     }
 }

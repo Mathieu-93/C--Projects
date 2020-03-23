@@ -22,15 +22,18 @@ namespace homework4
             travelDays.Add(days);
             ports.Add(new Destination(name));
         }
-        public void Arrived(){}
-        public void Conserve(){}
+        public void Arrived(){
+            currentNumber++;
+        }
+        public void Conserve(){
+            Console.WriteLine("Navigation Panel ready..");
+        }
         public int DaysToNextDestination(){
             return travelDays[currentNumber];
         }
         public NavigationPanel(){}
         public string NextDestination(){
             Destination actualPort = ports[currentNumber];
-            currentNumber++;
             return actualPort.Name;
         }
 

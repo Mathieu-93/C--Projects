@@ -8,7 +8,9 @@ namespace homework4
     {
         private string name;
         public double Amount{get;set;}
-        public void HowMuchLeft(){System.Console.WriteLine(Amount+" left");}
-        public  Waste(string s){} 
+        public void HowMuchLeft(){System.Console.WriteLine(name+" waste stored:"+Amount);}
+        public  Waste(string s){
+            this.name = s;
+        } 
     }
 }

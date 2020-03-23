@@ -6,7 +6,11 @@ namespace homework4
 {
     class ScientificProbe:ITool
     {
-        public void Conserve(){}
-        public void GatherDate(){}
+        public void Conserve(){
+            Console.WriteLine("Scientific probe ready..");
+        }
+        public void GatherDate(){
+            Console.WriteLine("Gathering data..");
+        }
     }
 }
