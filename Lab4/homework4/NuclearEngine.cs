@@ -11,7 +11,9 @@ namespace homework4
             Console.WriteLine("Nuclear waste stored: "+nuclearWaste);
         }
         public NuclearEngine(){}
-        public override void OneDayOfTravel(){}
+        public override void OneDayOfTravel(){
+            Console.WriteLine("Fuel supply:"+ fuel.Amount );
+        }
         public override double Refill(double amount){
             return amount +=amount;
         }
