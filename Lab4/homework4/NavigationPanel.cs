@@ -6,10 +6,10 @@ namespace homework4
 {
     class NavigationPanel:ITool
     {
-        private int currentNumber;
+        private int currentNumber=0;
         private List<Destination> ports = new List<Destination>();
         private List<int> travelDays = new List<int>();
-        public int ToolNumber{
+        public int TotalNumber{
                 get{
                     int tDays=0; 
                     foreach(int elem in travelDays){
@@ -25,10 +25,14 @@ namespace homework4
         public void Arrived(){}
         public void Conserve(){}
         public int DaysToNextDestination(){
-            return 
+            return travelDays[currentNumber];
         }
         public NavigationPanel(){}
-        public string NextDestination(){}
+        public string NextDestination(){
+            Destination actualPort = ports[currentNumber];
+            currentNumber++;
+            return actualPort.Name;
+        }
 
 
     }

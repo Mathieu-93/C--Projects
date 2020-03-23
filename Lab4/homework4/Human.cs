@@ -6,7 +6,7 @@ namespace homework4
 {
     abstract class Human
     {
-        static private double MedianSalary =1500;
+        static public double MedianSalary =1500;
         private Random random;
         public double Salary{get;set;}
         public int Breathe(){

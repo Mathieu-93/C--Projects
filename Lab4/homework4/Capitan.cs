@@ -4,8 +4,8 @@ using System.Text;
 
 namespace homework4
 {
-    class Capitan:Human
+    class Captain:Human
     {
-        public Capitan(double s):base(s){}
+        public Captain(double s):base(s){}
     }
 }
