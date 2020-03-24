@@ -8,7 +8,7 @@ namespace homework4
     {
         public  double Amount{get;set;}
         public double MaxCapacity {get;set;}
-        public void HowMuchLeft(){System.Console.WriteLine("Oxygen supply:"+Amount);}
+        public void HowMuchLeft(){System.Console.WriteLine("Oxygen supply: "+Amount);}
         public  OxygenSupply(double capacity){
             this.MaxCapacity= capacity;
         }

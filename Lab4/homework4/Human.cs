@@ -10,10 +10,10 @@ namespace homework4
         private Random random;
         public double Salary{get;set;}
         public int Breathe(){
-            return 100;
+            return 500;
         }
         public double Eat(){
-            return random.NextDouble();
+            return Math.Round(4*random.NextDouble(),1);
         }
         public Human(double s){
             random = new Random((int)DateTime.Now.Ticks);

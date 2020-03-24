@@ -19,6 +19,7 @@ namespace homework4
             nuclearWaste.HowMuchLeft();
         }
         public override double Refill(double amount){
+            nuclearWaste.Amount = 0;
             return fuel.Amount +=amount;
         }
     }

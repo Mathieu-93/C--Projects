@@ -7,6 +7,6 @@ namespace homework4
     class FoodSupply:IStorable
     {
         public double Amount{get;set;}
-        public void HowMuchLeft(){System.Console.WriteLine("Food Supply:"+Amount);}
+        public void HowMuchLeft(){System.Console.WriteLine("Food Supply: "+Math.Round(Amount,1));}
     }
 }

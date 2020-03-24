@@ -7,6 +7,6 @@ namespace homework4
     class Fuel:IStorable
     {
         public double Amount{set;get;}
-        public void HowMuchLeft(){System.Console.WriteLine("Fuel supply:"+Amount);}
+        public void HowMuchLeft(){System.Console.WriteLine("Fuel supply: "+Amount);}
     }
 }
