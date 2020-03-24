@@ -10,13 +10,7 @@ namespace homework4
         private List<Destination> ports = new List<Destination>();
         private List<int> travelDays = new List<int>();
         public int TotalNumber{
-                get{
-                    int tDays=0; 
-                    foreach(int elem in travelDays){
-                        tDays+=elem;
-                    }
-                return tDays;
-                }
+                get{return travelDays.Count;}
             }
         public void AddPort(string name, int days){
             travelDays.Add(days);

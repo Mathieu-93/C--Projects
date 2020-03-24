@@ -6,17 +6,20 @@ namespace homework4
 {
     class NuclearEngine:Engine
     {
-        private Waste nuclearWaste;
+        private Waste nuclearWaste= new Waste("Nuclear");
         public override void CheckSupplies(){
-            Console.WriteLine("Nuclear waste stored: "+nuclearWaste);
+            fuel.HowMuchLeft();
+            nuclearWaste.HowMuchLeft();
         }
         public NuclearEngine(){}
         public override void OneDayOfTravel(){
-            Console.WriteLine("Fuel supply:"+ fuel.Amount );
+            fuel.Amount-=10;
+            nuclearWaste.Amount+=1;
+            fuel.HowMuchLeft();
+            nuclearWaste.HowMuchLeft();
         }
         public override double Refill(double amount){
-            return amount +=amount;
+            return fuel.Amount +=amount;
         }
-
     }
 }

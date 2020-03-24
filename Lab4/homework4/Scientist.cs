@@ -8,6 +8,8 @@ namespace homework4
     {
         public Scientist(double s): base(s){}
         public ScientificProbe myProbe{get;set;}
-        public void Work(){}
+        public void Work(){
+            System.Console.WriteLine("Gathering data..");
+        }
     }
 }

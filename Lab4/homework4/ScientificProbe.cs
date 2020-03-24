@@ -10,7 +10,6 @@ namespace homework4
             Console.WriteLine("Scientific probe ready..");
         }
         public void GatherDate(){
-            Console.WriteLine("Gathering data..");
         }
     }
 }

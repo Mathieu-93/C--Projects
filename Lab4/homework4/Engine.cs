@@ -10,9 +10,7 @@ namespace homework4
         public virtual void CheckSupplies(){
             Console.WriteLine("Fuel supply: "+fuel.Amount);
         }
-        public Engine(){
-            fuel.Amount =100;
-        }
+        public Engine(){}
         public abstract void OneDayOfTravel();
         public abstract double Refill(double amount);
 
