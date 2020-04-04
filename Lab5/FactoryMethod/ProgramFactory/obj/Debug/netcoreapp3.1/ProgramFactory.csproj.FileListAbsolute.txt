@@ -1,0 +1,11 @@
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\obj\Debug\netcoreapp3.1\ProgramFactory.csprojAssemblyReference.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\obj\Debug\netcoreapp3.1\ProgramFactory.AssemblyInfoInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\obj\Debug\netcoreapp3.1\ProgramFactory.AssemblyInfo.cs
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.exe
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.deps.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.runtimeconfig.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.runtimeconfig.dev.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\bin\Debug\netcoreapp3.1\ProgramFactory.pdb
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\obj\Debug\netcoreapp3.1\ProgramFactory.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab5\FactoryMethod\ProgramFactory\obj\Debug\netcoreapp3.1\ProgramFactory.pdb
