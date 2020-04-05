@@ -1,0 +1,11 @@
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\obj\Debug\netcoreapp3.1\decorator.csprojAssemblyReference.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\obj\Debug\netcoreapp3.1\decorator.AssemblyInfoInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\obj\Debug\netcoreapp3.1\decorator.AssemblyInfo.cs
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.exe
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.deps.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.runtimeconfig.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.runtimeconfig.dev.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\bin\Debug\netcoreapp3.1\decorator.pdb
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\obj\Debug\netcoreapp3.1\decorator.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\Ex\decorator\obj\Debug\netcoreapp3.1\decorator.pdb
