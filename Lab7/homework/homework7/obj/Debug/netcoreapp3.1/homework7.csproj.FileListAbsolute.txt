@@ -1,0 +1,13 @@
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.exe
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.deps.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.runtimeconfig.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.runtimeconfig.dev.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\bin\Debug\netcoreapp3.1\homework7.pdb
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.csprojAssemblyReference.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.AssemblyInfoInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.AssemblyInfo.cs
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.pdb
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab7\homework\homework7\obj\Debug\netcoreapp3.1\homework7.genruntimeconfig.cache

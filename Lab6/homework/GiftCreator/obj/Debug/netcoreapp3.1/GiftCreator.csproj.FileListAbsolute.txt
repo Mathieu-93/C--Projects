@@ -1,0 +1,11 @@
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.exe
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.deps.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.runtimeconfig.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.runtimeconfig.dev.json
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\bin\Debug\netcoreapp3.1\GiftCreator.pdb
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\obj\Debug\netcoreapp3.1\GiftCreator.csprojAssemblyReference.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\obj\Debug\netcoreapp3.1\GiftCreator.AssemblyInfoInputs.cache
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\obj\Debug\netcoreapp3.1\GiftCreator.AssemblyInfo.cs
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\obj\Debug\netcoreapp3.1\GiftCreator.dll
+C:\Users\Mateusz Ogonowski\Documents\GitHub\CSharp-Projects\Lab6\homework\GiftCreator\obj\Debug\netcoreapp3.1\GiftCreator.pdb
